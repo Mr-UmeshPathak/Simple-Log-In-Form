@@ -1,0 +1,59 @@
+body{
+    background-color: blueviolet;
+}
+
+#box{
+    height: 300px;
+    width: 400px;
+    background-color: lavenderblush;
+    margin: 110px auto;
+    border-radius: 5px;
+    padding: 40px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+#input1, input1[type=text]{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: lightgray;
+
+}
+#input2, input2[type=text]{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: lightgray;
+
+}
+
+.field3{
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 10px;
+}
+
+button{
+    width: 100%;
+    background-color: mediumpurple;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+}
